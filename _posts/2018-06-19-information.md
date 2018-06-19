@@ -1,0 +1,14 @@
++---
+ 	+title: "SVG的历史"
+ 	+categories:
+ 	+  - 网页设计与制作
+ 	+tags:
+ 	+  - SVG
+ 	+---
+ 	+
+ 	+{% include base_path %}
+ 	+
+ 	+{% include toc title="Getting Started" %}
+ 	
+# SVG的信息
+- 可缩放矢量图形是基于可扩展标记语言（标准通用标记语言的子集），用于描述二维矢量图形的一种图形格式。它由[万维网联盟](https://baike.baidu.com/item/%E4%B8%87%E7%BB%B4%E7%BD%91%E8%81%94%E7%9B%9F/1458269)制定，是一个开放标准。
