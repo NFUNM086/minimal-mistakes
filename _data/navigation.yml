@@ -2,7 +2,16 @@
 main:
   - title: "简书"
     url: https://www.jianshu.com/u/272a120e85da
+  - title: "SVG的制作" 
+    url: /svg/
+  - title: "界面设计"
+    url: /design/#界面设计
+  - title: "平面设计"
+    url: /design/#平面设计
+  - title: "About"
+    url: /about/
     
+  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
