@@ -6,15 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Minimal Mistakes"
-title_separator          : "-"
-name                     : &name "Michael Rose"
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
-url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
-repository               : "mmistakes/minimal-mistakes"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+locale                   : "zh-CN"
+title                    : "使用minimal-mistakes主题的Jekyll网站"
+title_separator          : "："
+name                     : "徐嘉慧"
+description              : "使用Jekyll搭建的网站"
+url                      : "https://nfunm086.gitee.io"
+baseurl                  : "/minimal-mistakes"
+repository               : "nfunm086/minimal-mistakes"
+teaser                   : "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -79,11 +79,11 @@ analytics:
 
 # Site Author
 author:
-  name             : *name
+  name             : "徐嘉慧"
   avatar           : "michael-rose.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
-  location         : "Buffalo, NY"
-  email            :
+  bio              : "中山大学南方学院 文学与传媒学院 网络与新媒体"
+  location         : "广东-广州"
+  email            : "1035470115@qq.com"
   uri              : "https://mademistakes.com"
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : *facebook
   foursquare       :
-  github           : "mmistakes"
+  github           : "https://gitee.com/NFUNM086/"
   google_plus      :
   keybase          :
   instagram        : "mmistakes"
