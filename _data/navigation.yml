@@ -2,7 +2,7 @@
 main:
   - title: "简书"
     url: https://www.jianshu.com/u/272a120e85da
-  - title: "SVG的制作" 
+  - title: "SVG制作" 
     url: /svg/
   - title: "界面设计"
     url: /design/#界面设计
@@ -10,6 +10,7 @@ main:
     url: /design/#平面设计
   - title: "About"
     url: /about/
+  - title: "Quick-Start Guide"
     
   
   # - title: "About"
