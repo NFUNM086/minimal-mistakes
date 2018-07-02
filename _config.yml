@@ -106,6 +106,7 @@ author:
   location         : "广东-广州"
   email            : "1035470115@qq.com"
   uri              : "https://mademistakes.com"
+  home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
