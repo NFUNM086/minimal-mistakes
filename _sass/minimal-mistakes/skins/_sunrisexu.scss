@@ -4,7 +4,7 @@
 
 /* Colors */
 $dark-gray: #2F4F4F !default;
-$background-color: #FFFACD !default;
+$background-color: #FFF0F5 !default;
 $text-color: #000 !default;
 $muted-text-color: $dark-gray !default;
 $primary-color: #ff6600 !default;
@@ -12,7 +12,7 @@ $border-color: mix(#000, $background-color, 20%) !default;
 $code-background-color: mix(#fff, $background-color, 20%) !default;
 $code-background-color-dark: mix(#000, $background-color, 10%) !default;
 $form-background-color: mix(#fff, $background-color, 15%) !default;
-$footer-background-color: #ff6666 !default;
+$footer-background-color: #ff9999 !default;
 $link-color: mix(#000, $primary-color, 10%) !default;
 $link-color-hover: mix(#fff, $link-color, 25%) !default;
 $link-color-visited: mix(#000, $link-color, 25%) !default;
