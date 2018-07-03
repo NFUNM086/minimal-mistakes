@@ -12,4 +12,6 @@ date: 2018-07-02
 ##### 技能：
 ##### 职位：文学与传媒学院蓝鸟通讯社摄制部部长
 ##### 摄影作品：
-![摄影作品.jpg](/images/girl.jpg)
+![girl.jpg](https://upload-images.jianshu.io/upload_images/9400767-6b967f9cd51798cf.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![cat.jpg](https://upload-images.jianshu.io/upload_images/9400767-3c224c50e5b3c220.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
