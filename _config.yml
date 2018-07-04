@@ -105,8 +105,8 @@ author:
   avatar           : "/images/touxiang.jpg"
   bio              : "中山大学南方学院 文学与传媒学院 网络与新媒体"
   location         : "广东-广州"
-  email            : "1035470115@qq.com"
-  uri              : "https://mademistakes.com"
+  email            : 
+  uri              : "https://gitee.com/NFUNM086/"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -114,7 +114,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "https://gitee.com/NFUNM086/"
+  github           : "https://github.com/NFUNM086"
   google_plus      :
   keybase          :
   instagram        :
