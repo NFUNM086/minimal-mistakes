@@ -1,5 +1,5 @@
 ---
-title:  "svg动画制作01"
+title:  "svg+css动画实践"
 ---
 
 <!DOCTYPE html>
