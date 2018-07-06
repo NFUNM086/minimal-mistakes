@@ -11,11 +11,10 @@ tags:
 
 {% include toc title="目录" %}
 
+（第一篇界面设计学习笔记）
 
-# 界面设计的第一篇学习笔记
-
-## 修正“部署失败”和“网页不能正常显示”的错误
-### 部署失败
+# 修正“部署失败”和“网页不能正常显示”的错误
+## **部署失败**
 - **问题出现**
 
 ![部署失败的截图.jpg](https://upload-images.jianshu.io/upload_images/9400767-79e6ad7bc478c6cc.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -33,7 +32,7 @@ Gitee Pages服务能正常操作，有网站地址出现（如下图所示）
 
 ---
 
-### 网页不能正常显示
+## **网页不能正常显示**
 - **问题出现**
 
 ![网页不能正常显示.jpg](https://upload-images.jianshu.io/upload_images/9400767-0cc367f4f0e88063.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
