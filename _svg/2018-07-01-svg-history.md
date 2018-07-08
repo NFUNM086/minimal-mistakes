@@ -1,6 +1,5 @@
 ---
 title:  "svg的历史"
----
 
 sidebar:
   nav: "docs"
