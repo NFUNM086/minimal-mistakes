@@ -7,6 +7,10 @@ tags:
   - 笔记
 ---
 
+sidebar:
+  nav: "docs"
+---
+
 {% include base_path %}
 
 {% include toc title="目录" %}

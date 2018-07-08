@@ -2,6 +2,9 @@
 title:  "svg+CSS实践-篮球的淡出"
 ---
 
+sidebar:
+  nav: "docs"
+---
 
 <html>
 	<head>

@@ -2,6 +2,9 @@
 title:  "svg+css实践-模仿进度条"
 ---
 
+sidebar:
+  nav: "docs"
+---
 
 <html>
 	<head>

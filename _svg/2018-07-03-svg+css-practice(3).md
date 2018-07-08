@@ -2,6 +2,9 @@
 title:  "svg+css实践-字体的移动和放大"
 ---
 
+sidebar:
+  nav: "docs"
+---
 
 <html>
 	<head>
