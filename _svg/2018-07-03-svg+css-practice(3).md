@@ -1,5 +1,5 @@
 ---
-title:  "svg+css实践之字体的移动和放大"
+title:  "svg+css实践-字体的移动和放大"
 ---
 
 <!DOCTYPE html>

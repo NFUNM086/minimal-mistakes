@@ -1,5 +1,5 @@
 ---
-title:  "svg+css实践之模仿进度条"
+title:  "svg+css实践-模仿进度条"
 ---
 
 <!DOCTYPE html>
