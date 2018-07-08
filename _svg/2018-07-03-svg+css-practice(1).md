@@ -2,7 +2,7 @@
 title:  "svg+CSS实践-篮球的淡出"
 ---
 
-<!DOCTYPE html>
+
 <html>
 	<head>
 		<meta charset="UTF-8">

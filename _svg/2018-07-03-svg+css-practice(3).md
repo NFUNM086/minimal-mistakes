@@ -2,7 +2,7 @@
 title:  "svg+css实践-字体的移动和放大"
 ---
 
-<!DOCTYPE html>
+
 <html>
 	<head>
 		<meta charset="UTF-8">

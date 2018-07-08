@@ -2,7 +2,7 @@
 title:  "svg+css实践-模仿进度条"
 ---
 
-<!DOCTYPE html>
+
 <html>
 	<head>
 		<meta charset="UTF-8">
