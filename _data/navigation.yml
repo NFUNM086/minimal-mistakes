@@ -12,6 +12,46 @@ main:
     url: /about/
   - title: "Quick-Start Guide"
     
+ docs:
+  - title: 界面设计学习笔记
+    children:
+      - title: "解决【部署失败】和【网页不能正常显示】的问题"
+        url: https://nfunm086.gitee.io/minimal-mistakes/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/interface-design-01/
+      - title: "解决【_posts里文章不能在网页中显示】的问题"
+        url: https://nfunm086.gitee.io/minimal-mistakes/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/interface-design-02/
+      - title: "解决【Github链接404】的问题"
+        url: https://nfunm086.gitee.io/minimal-mistakes/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/interface-design-03/
+      
+
+  - title: 平面设计学习笔记
+    children:
+      - title: "更换网站色调"
+        url: https://nfunm086.gitee.io/minimal-mistakes/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/graphic-design-01/
+      - title: "关于衬线体与无衬线体"
+        url: https://nfunm086.gitee.io/minimal-mistakes/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/graphic-design-02/
+      - title: "UI Text"
+        url: /docs/ui-text/
+      
+
+  - title: svg制作
+    children:
+      - title: "篮球的淡出"
+        url: https://nfunm086.gitee.io/minimal-mistakes/svg/2018-07-03-svg+css-practice(1)/
+      - title: "模仿进度条"
+        url: https://nfunm086.gitee.io/minimal-mistakes/svg/2018-07-03-svg+css-practice(2)/
+      - title: "字体的移动和放大"
+        url: https://nfunm086.gitee.io/minimal-mistakes/svg/2018-07-03-svg+css-practice(3)/
+      - title: "svg的历史"
+        url: https://nfunm086.gitee.io/minimal-mistakes/svg/2018-07-01-svg-history/
+      - title: "svg动画的基本步骤"
+        url: /docs/utility-classes/
+
+  - title: 关于我
+    children:
+      - title: "简书"
+        url: https://www.jianshu.com/u/272a120e85da
+      - title: "个人信息"
+        url: https://nfunm086.gitee.io/minimal-mistakes/about/
   
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
