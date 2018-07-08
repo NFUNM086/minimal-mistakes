@@ -15,19 +15,19 @@ main:
 docs:
   - title: 界面设计
     children:
-      - title: "界面设计学习笔记-解决【部署失败】和【网页不能正常显示】的问题"
+      - title: "解决【部署失败】和【网页不能正常显示】的问题"
         url: https://nfunm086.gitee.io/minimal-mistakes/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/interface-design-01/
-      - title: "界面设计学习笔记-解决【_posts里文章不能在网页中显示】的问题"
+      - title: "解决【_posts里文章不能在网页中显示】的问题"
         url: https://nfunm086.gitee.io/minimal-mistakes/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/interface-design-02/
-      - title: "界面设计学习笔记-解决【Github链接404】的问题"
+      - title: "解决【Github链接404】的问题"
         url: https://nfunm086.gitee.io/minimal-mistakes/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/interface-design-03/
       
 
   - title: 平面设计
     children:
-      - title: "平面设计学习笔记-更换网站色调"
+      - title: "更换网站色调"
         url: https://nfunm086.gitee.io/minimal-mistakes/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/graphic-design-01/
-      - title: "平面设计学习笔记-关于衬线体与无衬线体"
+      - title: "关于衬线体与无衬线体"
         url: https://nfunm086.gitee.io/minimal-mistakes/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/graphic-design-02/
       - title: "UI Text"
         url: /docs/ui-text/
@@ -35,15 +35,15 @@ docs:
 
   - title: svg制作
     children:
-      - title: "svg+css实践-篮球的淡出"
+      - title: "实践-篮球的淡出"
         url: https://nfunm086.gitee.io/minimal-mistakes/svg/2018-07-03-svg+css-practice(1)/
-      - title: "svg+css实践-模仿进度条"
+      - title: "实践-模仿进度条"
         url: https://nfunm086.gitee.io/minimal-mistakes/svg/2018-07-03-svg+css-practice(2)/
-      - title: "svg+css实践-字体的移动和放大"
+      - title: "实践-字体的移动和放大"
         url: https://nfunm086.gitee.io/minimal-mistakes/svg/2018-07-03-svg+css-practice(3)/
       - title: "svg的历史"
         url: https://nfunm086.gitee.io/minimal-mistakes/svg/2018-07-01-svg-history/
-      - title: "svg动画的基本步骤"
+      - title: "制作svg动画的基本步骤"
         url: /docs/utility-classes/
 
   - title: about
