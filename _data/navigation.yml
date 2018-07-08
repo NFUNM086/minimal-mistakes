@@ -12,7 +12,7 @@ main:
     url: /about/
   - title: "Quick-Start Guide"
     
- docs:
+docs:
   - title: 界面设计
     children:
       - title: "界面设计学习笔记-解决【部署失败】和【网页不能正常显示】的问题"
