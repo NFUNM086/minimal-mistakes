@@ -44,7 +44,7 @@ docs:
       - title: "svg的历史"
         url: https://nfunm086.gitee.io/minimal-mistakes/svg/2018-07-01-svg-history/
       - title: "制作svg动画的基本步骤"
-        url: /docs/utility-classes/
+        url: https://nfunm086.gitee.io/minimal-mistakes/svg/2018-07-08-svg-steps/
 
   - title: about
     children:
