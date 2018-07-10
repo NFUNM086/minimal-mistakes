@@ -29,8 +29,8 @@ docs:
         url: https://nfunm086.gitee.io/minimal-mistakes/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/graphic-design-01/
       - title: "关于衬线体与无衬线体"
         url: https://nfunm086.gitee.io/minimal-mistakes/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/graphic-design-02/
-      - title: "UI Text"
-        url: /docs/ui-text/
+      - title: "添加页头图片"
+        url: https://nfunm086.gitee.io/minimal-mistakes/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/graphic-design-03/
       
 
   - title: svg制作
