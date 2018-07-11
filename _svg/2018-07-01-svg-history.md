@@ -18,4 +18,3 @@ sidebar:
 # 浏览器支持度
 
 * SVG现在的浏览器支持度也相当不错，Android 2.3以上和IE9以上都支持																																																																																																							持。 （见[caniuse.com](http://caniuse.com/ #search=svg)）。
-![SVG图片](http://beyourowngraphicdesigner.co.uk/wp-content/uploads/2015/02/Vector-vs-Raster-25.png)		
